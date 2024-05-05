@@ -432,3 +432,11 @@ footer {
 footer p {
   text-align: center;
 }
+
+.text-container {
+  padding: 1rem;
+}
+
+.list {
+  list-style: none;
+}
